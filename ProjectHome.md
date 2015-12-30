@@ -1,0 +1,1 @@
+This is an Eclipse plug-in that will let you play word pronunciations right from with an Eclipse RCP application.
